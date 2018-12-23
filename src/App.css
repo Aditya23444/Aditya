@@ -1,0 +1,42 @@
+
+.App {
+  text-align: center;
+  background-color :#a3aa3b;
+}
+
+
+
+.App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(19, 18, 18);
+}
+
+
+.form{
+  width: 35%;
+  padding: 12px 20px;
+  height: 40vh;
+  margin: 8px 0;
+  border: 5px solid rgb(155, 26, 26);
+  
+}
+.formfields_label1{
+  
+  text-transform: uppercase;
+  font-size: .6em;
+  column-gap: 100px;
+}
+.formfield-button {
+  background-color: #52C4B9;
+  color: rgb(8, 8, 8);
+  margin: auto;
+  display: block;
+  font-size: 1em;
+  font-weight: 300;
+}
